@@ -14,6 +14,10 @@
 ![MCP](https://img.shields.io/badge/MCP-Claude_Desktop-6366F1)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+<br>
+
+<img src="docs/screenshots/ui.png" alt="Интерфейс SUMMARA" width="760">
+
 </div>
 
 ---

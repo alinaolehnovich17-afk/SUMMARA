@@ -1,0 +1,9 @@
+# Нормализация концов строк: в репозитории — LF
+* text=auto eol=lf
+
+# Бинарные файлы — не трогать
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.pdf binary
+*.ico binary

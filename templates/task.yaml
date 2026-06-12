@@ -1,0 +1,9 @@
+name: task
+description: Задача с исполнителем и дедлайном
+trigger_keywords: [задача, сделать, поручить, выполнить, нужно, надо, назначить]
+output_template: |
+  ## Задача: {{ title }}
+  **Описание:** {{ description }}
+  **Исполнитель:** {{ assignee if assignee else "не указан" }}
+  **Срок:** {{ deadline if deadline else "не указан" }}
+  **Приоритет:** {{ priority }}

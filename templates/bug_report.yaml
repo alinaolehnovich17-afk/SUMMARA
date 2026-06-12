@@ -1,0 +1,13 @@
+name: bug_report
+description: Отчёт об ошибке или проблеме в системе
+trigger_keywords: [ошибка, баг, проблема, сломалось, не работает, падает, краш, exception, traceback]
+output_template: |
+  ## Баг: {{ title }}
+  **Серьёзность:** {{ severity }}
+  **Описание:** {{ description }}
+
+  **Шаги воспроизведения:**
+  {% for step in steps %}{{ loop.index }}. {{ step }}
+  {% endfor %}
+  **Ожидаемое поведение:** {{ expected }}
+  **Фактическое поведение:** {{ actual }}

@@ -53,6 +53,23 @@
 
 Плюс **4 PDF-стиля** (Лавандовый, Розовый, Редакционный, Минимальный) и экспорт в TXT / JSON.
 
+### 🎨 Галерея (одна инструкция — 8 оформлений)
+
+<table>
+  <tr>
+    <td align="center"><b>🌿 Спокойный план</b><br><img src="docs/screenshots/calm_plan.png" width="210"></td>
+    <td align="center"><b>🏢 Корпоративный</b><br><img src="docs/screenshots/corporate.png" width="210"></td>
+    <td align="center"><b>✍️ Рукописный</b><br><img src="docs/screenshots/doodle.png" width="210"></td>
+    <td align="center"><b>🗺️ Майнд-карта</b><br><img src="docs/screenshots/mindmap.png" width="210"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎨 Брейншторм</b><br><img src="docs/screenshots/brainstorm.png" width="210"></td>
+    <td align="center"><b>👣 Пошаговый процесс</b><br><img src="docs/screenshots/steps.png" width="210"></td>
+    <td align="center"><b>🌃 Неон</b><br><img src="docs/screenshots/neon.png" width="210"></td>
+    <td align="center"><b>🍊 Сочный</b><br><img src="docs/screenshots/juicy.png" width="210"></td>
+  </tr>
+</table>
+
 ---
 
 ## 🚀 Быстрый старт
